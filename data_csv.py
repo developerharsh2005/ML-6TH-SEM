@@ -8,10 +8,10 @@ with open("data.csv", "w", newline="") as file:
     
     for i in range(5):
        
-        name = input("Enter name: ")
+        Name = input("Enter name: ")
         age = input("Enter age: ")
         city = input("Enter city: ")
 
-        writer.writerow([name, age, city])
+        writer.writerow([Name, age, city])
 
 print("\nAll 5 entries saved to data.csv!")
