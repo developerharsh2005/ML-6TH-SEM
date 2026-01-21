@@ -1,0 +1,5 @@
+Iteration 1:  b0 = 3.0000, b1 = 1.9800
+Iteration 2:  b0 = 3.0060, b1 = 1.9820
+Iteration 3:  b0 = 3.0108, b1 = 1.9800
+Iteration 4:  b0 = 3.0157, b1 = 1.9788
+Iteration 5:  b0 = 3.0205, b1 = 1.9774
